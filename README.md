@@ -84,6 +84,10 @@ Better inventory and marketing strategy through sales trend analysis.
 
 Enhanced profitability tracking through AOV and profit breakdowns.
 
-6.) 🎯 Objective
+6.) Screenshots / Demos 
+
+https://github.com/t-suraj28/Shree-Traders-Pvt-Dashboard/blob/main/Shree%20Traders%20Pvt.%20Dashboard.png
+
+7.)🎯 Objective
 
 To help business stakeholders quickly assess sales performance, identify profitable segments, and optimize marketing and operational strategies based on real-time insights.
